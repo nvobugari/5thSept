@@ -1,0 +1,1663 @@
+
+#Q   Knowing that Vijay's expenditure for first 3 days is Rs. 100, Rs. 125 and Rs. 85, what is his 4th day expenditure as his 4 days average expenditure Rs. 90?
+ANSWER: Rs. 50
+a. Rs. 220
+b. Rs. 60
+c. Rs. 50
+d. Rs. 90
+
+#Q  Without considering the salary of the boss, the average salary reduces by Rs. 1000. What will be salary of boss if average salary of 11 employees and the boss is Rs. 18000?
+ANSWER: Rs. 29000
+a. Rs. 30000
+b. Rs. 27000
+c. Rs. 36000
+d. Rs. 29000
+
+#Q   What will be average price of all the goods bought, if Ajay buys 30 erasers for Rs. 3 each, 35 chocolates for Rs. 10 each and 25 clips at the rate of Rs. 4 each?
+ANSWER: Rs. 6
+a. Rs. 9
+b. Rs. 6
+c. Rs. 5.5
+d. Rs. 8.25
+
+#Q  How much will be the average of the squares of natural numbers from 1 to 35?
+ANSWER: 426
+a. 612.5
+b. 1225
+c. 426
+d. 324
+
+#Q  Find average of natural numbers from 1 to 65?
+ANSWER: 33
+a. 33
+b. 32.5
+c. 130
+d. 65
+
+#Q  If the sum of three consecutive even numbers is 44 more than the average of these numbers, then the largest of these numbers is?
+ANSWER: 24
+a. 20
+b. 24
+c. 22
+d. None of these
+
+#Q  The average of 5 quantities is 6. The average of 3 of them is 4. What is the average of remaining 2 numbers?
+ANSWER: 9
+a. 9
+b. 10
+c. 8
+d. 9.5
+
+#Q   Average age of 7 family members is 75 years. But average age of 6 of them is 74 years 6 months. What is the age of the 7th family member?
+ANSWER: 78
+a. 75.5
+b. 78
+c. 68
+d. 80
+
+#Q   Average age of 5 people is 42 years. Another group has 8 people who have average age of 81 years. When both groups are mixed what is average age of all people?
+ANSWER: 66 years
+a. 64 years
+b. 66 years
+c. 61.5 years
+d. 70 years
+
+#Q   Average age of 5 people in a family is 55 years. However it is seen that 3 of the 5 people also have an average age of 55 years. What will be the average age of remaining two people of the family?
+ANSWER: 55 years
+a. 82.5 years
+b. 27.5 years
+c. 55 years
+d. 110 years
+
+#Q   Which of the following exactly denotes the average price of all the goods together if, Ramesh buys ‘a’ number of goods of type ‘A’ at price of Rs. ‘E’ each, ‘b’ number of goods of type ‘B’ at price of Rs. ‘F’ each and ‘c’ number of goods of type ‘C’ at price of Rs. ‘G’ each?
+ANSWER: (aE+bF+cG) / (a+b+c)
+a. (E+F+G) / (a+b+c)
+b. (AE+BF+CG) / (a+b+c)
+c. (aE+bF+cG) / (a+b+c)
+d. (aA+bB+cC) / (a+b+c)
+
+#Q   The average of fifty numbers is 28. If two numbers, namely 25 and 35 are discarded, the average of the remaining numbers is nearly,
+ANSWER: 27.92
+a. 29.27
+b. 27.92
+c. 27.29
+d. 29.72
+
+#Q   The average of three numbers is 77. The first number is twice the second and the second number is twice the third. Find the first number.
+ANSWER: 132
+a. 33
+b. 66
+c. 77
+d. 132
+
+#Q  Average age of A and B is 30 years, that of B and C is 32 years and the average age of C and A is 34 years. The age of C is
+ANSWER: 36 years
+a. 33 years
+b. 34 years
+c. 35 years
+d. 36 years
+
+#Q   3 boxes have some average weight. When one box which weighs 89 kg is replaced by another box, the average weight increases by 5 kg. How much the new box weighs?
+ANSWER: 104 kg
+a. 109 kg
+b. 94 kg
+c. 104 kg
+d. 84 kg
+
+#Q  A batsman played 11 innings and has a certain average. This average increases by 2 runs when his 3 innings of 32 runs, 33 runs and 34 runs are replaced by 3 other innings. Find the average of these 3 new innings.
+ANSWER: 40 (1/3) runs
+a. 40 runs
+b. 35 (3/8) runs
+c. 42 (3/8) runs
+d. 40 (1/3) runs
+
+#Q   Of the 20 cycles sold by Ajay, average cost of 12 cycles is Rs. 18000. In total he earned Rs. 300000. What was the average cost of remaining cycles?
+ANSWER: Rs. 10500
+a. Rs. 10500
+b. Rs. 7500
+c. Rs. 9125
+d. Rs. 9750
+
+#Q  Had Ajay scored 18 runs more in his 3rd innings and 4 runs more in his 7th innings, his average would have become 66 runs. But it is 64 runs. How many innings did he play?
+ANSWER: 11
+a. 15
+b. 10
+c. 12
+d. 11
+
+#Q   What will be the ratio of number of history books to number of geography books, if average number of pages of all books is 158, average number of pages of all history books is 164 and average number of pages of geography books 154?
+ANSWER: 2:3
+a. 3:5
+b. 5:3
+c. 2:3
+d. 3:2
+e. 77:82
+
+#Q   The average of first 17 multiples of 13 is
+ANSWER: 117
+a. 110.5
+b. 117
+c. 221
+d. 111
+
+#Q   In the India-Australia one day match, due to rain, India needed 324 runs in 48 overs to win. In initial 10 overs, the average scoring rate was 6, but in next 10 overs it increased to 8.5. It then declined to 5.5 in next 10 overs and again rose to 7 in next 10 overs. To win the match now what average is needed?
+ANSWER: 6.75
+a. 8.25
+b. 6.75
+c. 7.75
+d. 7.0
+
+#Q   In a group of people, the oldest and the youngest have an age difference of 100 years. If these two are left out of counting, then the average age of the remaining 40 people is 28. The average age of entire group being 30, how old is the eldest person?
+ANSWER: 120 years
+a. 101 years
+b. 115 years
+c. 120 years
+d. 103 years
+
+#Q   The average weight of three boys P, Q and R is 54 kg, while the average weight of three boys Q, S and T is 60 kg. What is the average weight of P, Q, R, S and T?
+ANSWER: Data Inadequate
+a. 66.4 kg
+b. 63.2 kg
+c. 58.8 kg
+d. Data Inadequate
+e. None of these
+
+#Q   If from a group of 5 people, an old member is replaced by a new one, the average age is same as it was 3 years ago. What is the difference between the ages of the old member and the new one?
+ANSWER: 15
+a. 12
+b. 15
+c. 11
+d. 18
+
+#Q   The batting average of a particular batsman is 60 runs in 46 innings. If the difference in his highest and lowest score is 150 runs and his average excluding these two innings is 58 runs, find his highest score.
+ANSWER: 179
+a. 179
+b. 208
+c. 210
+d. None of these
+
+#Q   Vijay says that his weight is between 75kg and 85kg. But his sister says that his weight is between 70kg and 80kg. his mother says that his weight cannot be greater than 78kg. If all the three predictions are correct, what is the average of different probable weights of Vijay?
+ANSWER: 76.5
+a. 75
+b. 80
+c. 78.5
+d. 76.5
+
+#Q   Determine a man’s present age if his present age is 125% of his age 10 years ago and 83.333% of his age 10 years from now.
+ANSWER: 50 years
+a. 40 years
+b. 50 years
+c. 60 years
+d. 70 years
+
+#Q   Average score for Virat Kohli in a series of 10 matches is 38.9 runs. If the average for first six matches comes out to be 42 what is his average in the last 4 matches of the series?
+ANSWER: 34.25
+a. 34.25
+b. 35
+c. 33.25
+d. 34.25
+
+#Q   The average weight of 8 persons is increased by 2.5 kg when one of them who weighs 56 kg is replaced by a new man. The weight of the new man is
+ANSWER: 76 years
+a. 76 years
+b. 72 years
+c. 78 years
+d. None of these
+
+#Q   Average of six numbers comes out to be 3.95. Average of two of the numbers is 3.4 while the average of other two is 3.85. Determine the average of the two numbers left.
+ANSWER: 4.6
+a. 4.7
+b. 4.8
+c. 4.3
+d. 4.6
+
+#Q   The product of two positive numbers is 4752 and their ratio is 11:12. The smaller of these numbers is
+ANSWER: 66
+a. 72
+b. 60
+c. 66
+d. 75
+
+
+#Q   a:b = 3:7 and b:c = 9:5. What is a:b:c?
+ANSWER: 27: 63:35
+a. 3:15:5
+b. 21:16:45
+c. 3:7:5
+d. 27: 63:35
+
+#Q   Find the mean proportional between 7 and 63?
+ANSWER: 21
+a. 35
+b. 21
+c. 27
+d. 30
+
+#Q   If a : b = 2 : 3, find the value of (3a + 5b) : (3a – b)
+ANSWER: 7 : 1
+a. 2 : 7
+b. 7 : 1
+c. 2 : 5
+d. 4 : 9
+
+#Q   The ratio of two numbers is 5:9. If each number is decreased by 5, the ratio becomes 5:11. Find the numbers.
+ANSWER: 15, 27
+a. 30, 19
+b. 21, 37
+c. 15, 34
+d. 15, 27
+
+#Q   Two kinds of rice, 1st costs Rs.13 per kg and 2nd costs Rs.19 per kg are mixed together. Find the ratio in which the 2 types are mixed so that the mixture costs Rs.14.2 per kg?
+ANSWER: 4:1
+a. 3:1
+b. 4:1
+c. 3:4
+d. 4:3
+
+#Q   What is the fourth proportional to the numbers 2, 5, 8.
+ANSWER: 20
+a. 40
+b. 20
+c. 15
+d. 10
+
+#Q   a:b = 5:2. What is the value of (8a + 9b): (8a + 2b)?
+ANSWER: 29:22
+a. 22:29
+b. 26:61
+c. 29:22
+d. 61:26
+
+#Q   Ratio of areas of incircle and circumcircle of an equilateral triangle is?
+ANSWER: 1:4
+a. 1:4
+b. 1:2
+c. 2:1
+d. 2:3
+
+#Q   A sum of money was to be divided amongst A and B in the ratio of 2:3. If the money is divided in the ratio of 3: 2, A will benefit by Rs. 75. The total money is
+ANSWER: Rs. 375
+a. Rs. 325
+b. Rs. 225
+c. Rs. 250
+d. Rs. 375
+
+#Q   In a library, the ratio of number of story books to that of non-story books was 4:3 and total number of story books was 1248. When some more story books were bought, the ratio became 5:3. Find the number of story books bought.
+ANSWER: 312
+a. 312
+b. 321
+c. 936
+d. 1560
+
+#Q   Rs. 8400 is divided among A, B, C and D in such a way that the shares of A and B, B and C, and C and D are in the ratios of 2:3, 4:5 and 6:7 respectively. The share of A is
+ANSWER: Rs. 1280
+a. Rs. 1280
+b. Rs. 8400
+c. Rs. 8210
+d. Rs. 1320
+
+#Q   The ratio of the present age of father to that of son is 7:2. After 10 years their ages will be in the ratio of 9:4. The present ages of the father is
+ANSWER: 35 years
+a. 35 years
+b. 40 years
+c. 30 years
+d. 25 years
+
+#Q   Ajay and Raj together have Rs. 1050. On taking Rs. 150 from Ajay, Ajay will have same amount as what Raj had earlier. Find the ratio of amounts with Ajay and Raj initially.
+ANSWER: 4:3
+a. 3:4
+b. 7:1
+c. 1:3
+d. 4:3
+
+#Q   Price of each article of type P, Q, and R is Rs. 300, Rs. 180 and Rs. 120 respectively. Suresh buys articles of each type in the ratio 3:2:3 in Rs. 6480. How many articles of type Q did he purchase?
+ANSWER: 8
+a. 8
+b. 14
+c. 20
+d. None of the above
+
+#Q   The ratio of market prices of wheat and paddy is 2:3 and the ratio of quantities consumed in a family is 5:4. Find the ratio of expenditure of wheat and paddy.
+ANSWER: 5:6
+a. 6:5
+b. 5:6
+c. 1:1
+d. 8:15
+
+#Q   The ratio of numbers of girls and boys participating in sports of a school is 4:5. If the number of girls is 212, determine the number of boys participating in the sports.
+ANSWER: 265
+a. 256
+b. 265
+c. 251
+d. 263
+
+#Q   The three numbers are in the ratio 1/2 : 2/3 : 3/4. The difference between greatest and smallest numbers is 36. Find the numbers.
+ANSWER: 72, 84, 108
+a. 72, 84, 108
+b. 60, 72, 96
+c. 72, 84, 96
+d. 72, 96, 108
+
+#Q   If A:B = 2:3, B:C = 4:5 and C:D = 6:7, then A:B:C:D is
+ANSWER: 16:24:30:35
+a. 18:24:30:35
+b. 16:24:30:35
+c. 16:22:30:35
+d. 16:24:15:35
+
+#Q   Find A:B:C:D when A:B = 2:3 ; B:C = 7:9 ; C:D = 5:7
+ANSWER: 70 : 105 : 135 : 189
+a. 70 : 105 : 135 : 189
+b. 105 : 115 : 236 :189
+c. 70 : 124 : 155 : 201
+d. 12 : 78 : 256 : 189
+ratio and proportion
+
+#Q   285 is summation of 3 numbers. Ratio between 2nd and 3rd numbers is 6:5. Ratio between 1st and 2nd numbers is 3:7. The 3rd number is?
+ANSWER: 105
+a. 135
+b. 150
+c. 124
+d. 105
+
+#Q   Shruti purchased several number of three articles P, Q and R in the proportion 3 : 2 : 3. If the unit costs of the articles P, Q and R are 200, Rs. 90 and Rs. 60 respectively, how many articles of Q must have been purchased in the total purchases of Rs. 4800?
+ANSWER: 10
+a. 8
+b. 10
+c. 12
+d. 14
+e. None of these
+
+#Q   In what ratio should the profit be divided if M, N, O invests capital in ratio 2:3:5 and their timing of their investments are in the ratio 4:5:6.
+ANSWER: 8:15:30
+a. 8:15:30
+b. 5:18:28
+c. 4:5:6
+d. 2:3:5
+
+#Q    If the ratio of present ages of Jeet and Jay is 5:7 and after 6 years the ratio will be 3:4, what is the present age of Jay?
+ANSWER: 42
+a. 42
+b. 30
+c. 36
+d. None of these
+
+#Q   Find the value of x when y = 5, if x varies directly as 4y-1 and x = 14 when y = 2.
+ANSWER: 38
+a. 38
+b. 35
+c. 10
+d. 28
+
+#Q   The third proportional to x2-y2, x-y is?
+ANSWER: x – y/(x + y)
+a. x + y
+b. x – y
+c. x – y/(x + y)
+d. 1
+
+#Q   A, B and C distribute Rs. 1,000 among them. A and C have Rs. 400, B and C Rs. 700. How much does C have?
+ANSWER: Rs 100
+a. Rs 100
+b. Rs 50
+c. Rs 200
+d. Rs 300
+
+#Q   Determine the number which should be subtracted from (14, 17) and (34, 42) to make remainders in same ratio?
+ANSWER: 2
+a. 1
+b. 2
+c. 4
+d. 7
+
+#Q   In what ratio must one add water to milk so as to gain 16.666% on the selling this mixture at the cost price?
+ANSWER: 1:6
+a. 1:6
+b. 1:3
+c. 6:1
+d. 3:1
+
+#Q   A number is multiplied by its one-third to get 192. Find the number.
+ANSWER: 24
+a. 16
+b. 20
+c. 24
+d. 28
+
+#Q   Summation of 5 consecutive numbers is found out to be 335. If we add the largest and smallest number what will we get?
+ANSWER: 134
+a. 134
+b. 150
+c. 174
+d. 226
+
+#Q   What will come in place of the question mark (?) in the following question? 112.36 + 225.05 + ? = 815.30
+ANSWER: 477.89
+a. 474.46
+b. 477.89
+c. 524.41
+d. 564.40
+
+#Q   If 148 is multiplied first by 163 and then by 236, Which of the following numbers would come at the unit's place?
+ANSWER: 4
+a. 8
+b. 6
+c. 4
+d. 3
+
+#Q   What will come in place of (a) in the following expression? a - 796.21 + 498.05 = 215.50 – 425.01
+ANSWER: 88.65
+a. 71.81
+b. 81.71
+c. 84.74
+d. 88.65
+
+#Q   The difference between a number and its two-fifth is 45. What is the number?
+ANSWER: 75
+a. 64
+b. 75
+c. 80
+d. 89
+
+#Q   8900 ÷ 6 ÷ 4 = ?
+ANSWER: 370.833
+a. 349
+b. 541.75
+c. 224.37
+d. 370.833
+
+#Q   The unit digit in the product (624 * 708 * 913 * 463) is:
+ANSWER: 8
+a. 2
+b. 5
+c. 6
+d. 8
+
+#Q   3/4th of a number exceeds its 2/3rd by 8. What is the number?
+ANSWER: 96
+a. 96
+b. 36
+c. 72
+d. 144
+
+#Q    How many numbers between 100 and 600 are divisible by 2, 3, and 7 together?
+ANSWER: 12
+a. 11
+b. 12
+c. 14
+d. cannot be determined
+
+#Q   3/4 part of tank is full of water. When 30 litres of water is taken out it becomes empty. The capacity of the tank is?
+ANSWER: 40 litres
+a. 36 litres
+b. 42 litres
+c. 40 litres
+d. 38 litres
+
+#Q   The sum of four consecutive integers is 1290. The greatest of them is?
+ANSWER: 324
+a. 321
+b. 322
+c. 323
+d. 324
+
+#Q   280 oranges are divided among some boys and girls whose total number is 50 so that each boy gets 5 oranges and each girl get 7 oranges. The number of girls is
+ANSWER: 15
+a. 30
+b. 35
+c. 15
+d. 20
+
+#Q   A boy was asked to multiply a number by 12. But he multiplied by 21 and got his answer 63 more than the correct answer. The number to be multiplied was
+ANSWER: 7
+a. 7
+b. 9
+c. 8
+d. 12
+
+#Q   The sum of 2 numbers is 36 and their product is 248. What will be the sum of their reciprocals?
+ANSWER: 9/62
+a. 9/62
+b. 65/248
+c. 212
+d. 248/36
+ 
+#Q   Since Raj was not paying attention in class, instead of multiplying M by 3/4, he divided by 3/4. This led to a difference of 14 between the two answers. What is value of M?
+ANSWER: 24
+a. 12
+b. 30
+c. 24
+d. 10
+
+#Q   In an area 2% families have 5 children each. But 8% have no children at all. Amongst the rest of the families 18% have 4 children and 27% have only one child. How many families live in the area, if 297 families have either 2 or 3 children each?
+ANSWER: 600
+a. 550
+b. 600
+c. 850
+d. 725
+
+#Q   In a poultry farm having hens and pigs, Rohan can see 84 heads and 282 legs. How many hens are there?
+ANSWER: 27
+a. 54
+b. 30
+c. 27
+d. 57
+
+#Q   Square of difference between two numbers is 9 while the sum of squares of those two numbers is 225. What is their product?
+ANSWER: 108
+a. 108
+b. 125
+c. 169
+d. 96
+
+#Q   Average of 3 numbers is 87. The 1st number is 4 times the 2nd number and 5 times the 3rd number. What will be difference between first and third number?
+ANSWER: 144
+a. 99
+b. 144
+c. 132
+d. 169
+
+#Q   Since Raj was not paying attention in class, instead of multiplying M by 3/4, he divided by 3/4. This led to a difference of 14 between the two answers. What is value of M?
+ANSWER: 24
+a. 12
+b. 30
+c. 24
+d. 10
+
+#Q   If in a book a total of 3209 digits are used for numbering, then find out the total number of pages in the book.
+ANSWER: 1079
+a. 1079
+b. 1000
+c. 1100
+d. 1075
+
+#Q   A and B working separately can complete a piece of work in 9 and 12 days respectively. If they work alternatively starting from A in how many days will the work be completed?
+ANSWER: 10.25 days
+a. 10.25 days
+b. 11.5 days
+c. 12.75 days
+d. 9 days
+
+#Q   What is the sum of this series? 1, 3, 5, 7, 9, ...... 99.
+ANSWER: 2500
+a. 2500
+b. 1500
+c. 3500
+d. None of the above
+
+#Q   What is the smallest number which is a perfect square and is divisible by 16, 20 and 24?
+ANSWER: 3600
+a. 2400
+b. 3600
+c. 7200
+d. 1600
+
+#Q   India has a run rate of 3.2 in the first 10 overs. What should be the run rate in remaining 40 overs to win a game of 282 runs?
+ANSWER: 6.25
+a. 6.25
+b. 5.5
+c. 7.25
+d. 8
+
+#Q   Think of a number, divide it by 4 and add 9 to it. The result is 15. What is the number thought of?
+ANSWER: 24
+a. 24
+b. 25
+c. 26
+d. 27
+
+#Q   A pineapple costs Rs 7 each and a watermelon costs Rs. 5 each. If I spend Rs 38 on total what is the number of pineapple I purchased?
+ANSWER: Data Inadequete
+a. 2
+b. 3
+c. 4
+d. Data Inadequete
+
+#Q   Find the natural number nearest to 9217 which completely divides 88 without giving any remainder.
+ANSWER: 9240
+a. 9240
+b. 9064
+c. 9184
+d. 9152
+
+#Q    A positive integer which when added to 100, gives a sum which is greater than when it is multiplied by 100. What is the number?
+ANSWER: 1
+a. 5
+b. 2
+c. 3
+d. 1
+
+#Q   The sum of two numbers is 73 and their difference is 28. Find the difference between their squares.
+ANSWER: 2044
+a. 101
+b. 45
+c. 2044
+d. cannot be determined
+
+#Q   If selling price of 40 articles is equal to cost price of 50 articles, the loss or gain percent is
+ANSWER: 25% gain
+a. 25% loss
+b. 20% loss
+c. 25% gain
+d. 20% gain
+
+#Q   Eleven bags are bought for Rs.1000 and sold at 10 for Rs.1100. What is the gain or loss in percentage?
+ANSWER: 21%
+a. 10%
+b. 21%
+c. 25%
+d. 20%
+
+#Q   If selling price of 12 pens is equal to the cost price of 18 pens, find the profit percent.
+ANSWER: 50%
+a. 40%
+b. 33.3%
+c. 50%
+d. 25%
+
+#Q   A person sells a book for Rs. 11. He gains as many percent as its cost price in rupees. What is the cost price?
+ANSWER: Rs. 10
+a. Rs. 10
+b. Rs. 12
+c. Rs. 7.50
+d. Rs. 5.50
+
+#Q   Shweta buys a product at 25% discount rate. At what % over the cost price should she sell the product to make an overall 25% profit over the listed price?
+ANSWER: 66.667
+a. 25
+b. 33.333
+c. 66.667
+d. 40
+
+#Q   C.P of 12 pens = S.P. of 8 pens. Calculate the gain percentage.
+ANSWER: 50%
+a. 25%
+b. 33%
+c. 37%
+d. 50%
+
+#Q   A person sold a stove for Rs. 423 and incurred a loss of 6%. At what price would it be sold so as to earn a profit of 8%?
+ANSWER: Rs. 486
+a. Rs. 525
+b. Rs. 500
+c. Rs. 490
+d. Rs. 486
+
+#Q   A fruit seller buys lemons at 2 for a rupee and sells then at 5 for three rupees. His gain percent is
+ANSWER: 20%
+a. 10%
+b. 15%
+c. 20%
+d. 25%
+
+#Q   A sells a car to B at 10% loss. If B sells it for Rs. 54000 and gains 20%, the cost price of the car for A was
+ANSWER: Rs. 50000
+a. Rs. 25000
+b. Rs. 50000
+c. Rs. 37500
+d. Rs. 60000
+
+#Q   Two bicycles were sold for Rs. 3990 each, gaining 5% on one and losing 5% on the other. The gain or loss percent on the whole transaction is
+ANSWER: 0.25% loss
+a. Neither gain nor loss
+b. 2.5% gain
+c. 2.5% loss
+d. 0.25% loss
+
+#Q   Chaman sells 40 fans at 10% profit. He wants a total of 20% profit on the entire sale. Since he got 160 fans at rate of Rs. 100 each, at what profit must he sell the remaining fans?
+ANSWER: 70/3%
+a. 70/3%
+b. 160/58%
+c. 30%
+d. 100/3%
+
+#Q   Uma wants to gain 15% profit on her sale of sugar. She buys 120 kg of sugar at Rs. 24 per kg to mix with 180 kg of sugar bought at Rs. 28 per kg. She sells the sugar mix at ….
+ANSWER: Rs. 9108
+a. Rs. 8159
+b. Rs. 9108
+c. Rs. 9756
+d. Rs. 8564
+
+#Q   Rohit got profit of 11½% by selling his old car. However he realized that had he sold it for Rs. 8100 more, his profit would be 38.5%. At what price did he buy the car?
+ANSWER: Rs. 30000
+a. Rs. 44500
+b. Rs. 55000
+c. Rs. 41000
+d. Rs. 30000
+
+#Q   Rambabu sells paper planes at the rate of 20 planes for Re. 1. If he gets profit of 20%, how many planes did he buy in 1 rupee?
+ANSWER: 24
+a. 16
+b. 40
+c. 24
+d. 36
+
+#Q   A cheater manipulated his weighing machine so that it shows 1kg for 970 grams. How much profit does he get?
+ANSWER: 300/97%
+a. 397/100%
+b. 0.3 %
+c. 0.03%
+d. 300/97%
+
+#Q   Ajay incurred loss of 20% by selling a vase for Rs. 2880. To get a profit of 20% at what price should he sell the vase?
+ANSWER: Rs. 4320
+a. Rs. 4320
+b. Rs. 5760
+c. Rs. 1440
+d. Rs. 3500
+
+#Q   A sold a car to B at a profit of 25%. B incurred loss of 15% while selling the same car to C. A spent Rs. 50000 for this car. At what price did C buy it?
+ANSWER: Rs. 53125
+a. Rs. 62500
+b. Rs. 60000
+c. Rs. 53125
+d. Rs. 90000
+
+#Q   What will be selling price, if cost price is Rs. 120 and gain is 35%?
+ANSWER: Rs. 162
+a. Rs. 135
+b. Rs. 85
+c. Rs. 155
+d. Rs. 162
+
+#Q   An article costs Rs. 600. What should be the marked price of an article so that after 10% discount, the trader makes 20% profit?
+ANSWER: Rs. 800
+a. Rs. 800
+b. Rs. 950
+c. Rs. 1100
+d. Rs. 1040
+
+#Q   A man buys 50 pens at marked price of 46 pens from a whole seller. If he sells these pens giving a discount of 1% , what is the profit percent?
+ANSWER: 7.6 %
+a. 5.3 %
+b. 7.6 %
+c. 10.6 %
+d. 12 %
+
+#Q   By purchasing an article at 20 % discount on the original price and then selling it at a price of 25% above the original price, a trader earns Rs. 200 as the profit. What was the original price of the article?
+ANSWER: Rs. 444.44
+a. Rs. 444.44
+b. Rs. 255.50
+c. Rs. 100.10
+d. Rs. 810
+e. None of these
+
+#Q    Find the resultant profit if A sells a cupboard at a profit of 6% to B and B sells the same to C at a profit of 9%.
+ANSWER: 15.54%
+a. 15%
+b. 16%
+c. 14.5%
+d. 15.54%
+
+#Q   Vijay sells a cupboard at 14% below cost price. Had he got Rs.2086 more, he would have made a profit of 14%. What is the cost price of the cupboard?
+ANSWER: 7450
+a. 7450
+b. 14900
+c. 7400
+d. 7500
+
+#Q   If the money was put in for the same duration of time by A,B and C, three business partners and four times A’s capital is equal to 6 times B’s capital is equal to 10 times C’s capital. Determine that out of a total profit of Rs 4650 what is C’s share?
+ANSWER: Rs 900
+a. Rs 2250
+b. Rs 1550
+c. Rs 450
+d. Rs 900
+
+#Q   The cost price of a particular amount of articles is same as the number of articles. Selling price of the articles comes out to be 20. Over the whole transaction 25% is gained. What is X?
+ANSWER: 16
+a. 15
+b. 18
+c. 16
+d. 20
+
+#Q   A trader purchases several articles at the rate of 13 for Rs. 10 and sells them at the rate of 10 for Rs. 13. What is his gain/loss?
+ANSWER: 69 % gain
+a. 69 % gain
+b. 56.25 % gain
+c. 56.25 % loss
+d. 25 % loss
+
+#Q   A boy pays Rs. 369 for an article marked at Rs. 600, by enjoying two successive discounts. If the first discount is of 25%, how much should be the second discount?
+ANSWER: 18 %
+a. 20 %
+b. 10 %
+c. 25 %
+d. 18 %
+
+#Q   If Harsh sold a match ticket for Rs.340 at a profit of 25%, at what price did he purchased the ticket?
+ANSWER: 272
+a. 280
+b. 255
+c. 300
+d. 272
+
+#Q    A shopkeeper sells his goods at cost price but uses a faulty meter that weighs 950 grams. Find the profit percent.
+ANSWER: 100/19%
+a. 100/17%
+b. 100/23%
+c. 100/19%
+d. 100/13%
+  
+#Q    A boy incurs 5% loss by selling a book for Rs. 1000. At what price should the book be sold to earn 5 % profit?
+ANSWER: Rs. 1105.26
+a. Rs. 1105.26
+b. Rs. 1251.50
+c. Rs. 1085.13
+d. Rs. 1885.13
+
+#Q    A boy incurs 5% loss by selling a book for Rs. 1000. At what price should the book be sold to earn 5 % profit?
+ANSWER: Rs. 1105.26
+a. Rs. 1105.26
+b. Rs. 1251.50
+c. Rs. 1085.13
+d. Rs. 1885.13
+
+#Q   How many minimum number of square tiles are needed to cover a rectangular floor of dimension 5.25m and 5.10m completely?
+ANSWER: 1190
+a. 1190
+b. 1020
+c. 1080
+d. 1230
+
+#Q   Length of a rectangular ground is 15m more than its breadth. What will be its area if Length : Breadth is 7:4?
+ANSWER: 700 sq.m.
+a. 700 sq.m.
+b. 450 sq.m.
+c. 900 sq.m.
+d. 850 sq.m.
+
+#Q   The ratio of the areas of a square and rhombus whose base is same is:
+ANSWER: 1:1
+a. 1:2
+b. 2:1
+c. 1:1
+d. 3:1
+
+#Q   If the length is increased by 25%, by what percent the width of a rectangle should be decreased so as to keep the area same.
+ANSWER: 20%
+a. 25%
+b. 20%
+c. 30%
+d. 10%
+ 
+#Q   Jay’s room has a floor of 8m by 4m. He decides to tile the floor with tiles of 25cm x 20 cm. How many tiles will he need?
+ANSWER: 640 tiles
+a. 320 tiles
+b. 640 tiles
+c. 160 tiles
+d. 6.4 tiles
+
+#Q   Jay’s room has a floor of 8m by 4m. He decides to tile the floor with tiles of 25cm x 20 cm. How many tiles will he need?
+ANSWER: 640 tiles
+a. 320 tiles
+b. 640 tiles
+c. 160 tiles
+d. 6.4 tiles
+
+#Q   Shyam’s room has dimensions 6m x 5m x 4m. The room also has a door of dimension 2.5m x 1.2m and a window of dimensions 1m x 1m. What will be cost of painting the four walls of his room if rate of painting is Rs. 2 per sq.m.?
+ANSWER: Rs. 168
+a. Rs. 410
+b. Rs. 84
+c. Rs. 840
+d. Rs. 168
+
+#Q   A rhombus has one of its diagonal 60% of the other. A square is drawn using the longer diagonal as side. What will be ratio of area of square to that of the rhombus?
+ANSWER: 10:3
+a. 3:10
+b. 2:3
+c. 10:3
+d. 3:2
+
+#Q   Anil has a rectangular farm and he builds a road along the border of the farm from outside. The road is 5m wide and has an area of 600 m2. What is ratio of breadth and length of the farm?
+ANSWER: Cannot be determined
+a. 1:1
+b. 2:3
+c. 4:7
+d. Cannot be determined
+
+#Q   What will be increase in area of an equilateral triangle if its side is increased by 20%?
+ANSWER: 44%
+a. 20%
+b. 40%
+c. 44%
+d. 33%
+
+#Q   Original breadth of a rectangular box is 20 cm. The box was then remade in such a way that its length got increased by 30% but the breadth decreased by 20%. This led to an increase in area by 100sq.cm. What is the new area of the box?
+ANSWER: 2600 sq.cm.
+a. 3600 sq.cm.
+b. 3200 sq.cm.
+c. 2600 sq.cm.
+d. 2500 sq.cm.
+
+#Q   A field with equal sides of 40m is full of grass. One cow is tied to each corner of the field by a rope of 14m. How much grass will not be eaten by those 4 cows?
+ANSWER: 984 sq.m
+a. 984 sq.m
+b. 1056 sq.m
+c. 1224 sq.m
+d. 856 sq.m
+
+#Q   Length of a rectangle is 12cm more than its breadth and it has a perimeter of 200cm. What will be diameter of a circle whose area matches the area of this rectangle?
+ANSWER: 56 cm
+a. 44 cm
+b. 56 cm
+c. 28 cm
+d. 45 cm
+
+#Q   A semicircle of 8 cm diameter has 3 equilateral triangles inscribed within it. What is the total area of the triangles?
+ANSWER: 432 sq.cm.
+a. 72 sq.cm.
+b. 192 sq.cm.
+c. 432 sq.cm.
+d. 122 sq.cm.
+
+#Q   A man walks entirely around his semi-circular garden. What is the area of his garden, if he walks 324m?
+ANSWER: 6237 sq.m.
+a. 18 sq. m.
+b. 6237 sq.m.
+c. 5248 sq. m.
+d. 5368 sq. m.
+
+#Q   A rectangular margin has a length of 48cm and a total area of 840 sq.cm. The area becomes 2(6/7) times the initial area by just increasing the breadth. How much is the perimeter of the
+ANSWER: 1.96 m
+a. 1.69 m
+b. 1.85 m
+c. 1.96 m
+d. 2.25 m
+
+#Q   A triangular ground has 8km, 10km and 6km as its sides. It is to be painted at the rate of Rs. 8 per sq.km. How much will it cost?
+ANSWER: Rs. 192
+a. Rs. 256
+b. Rs. 3840
+c. Rs. 384
+d. Rs. 192
+
+#Q   A wooden rectangular plank has dimensions 12m and 6 m. Three circular portions are cut from the plank having diameters 2m, 2m and 1m.How much area of the plank remains?
+ANSWER: (288-9π)/4 sq.m.
+a. (288-9π)/3 sq.m.
+b. (288-3π)/4 sq.m.
+c. (72-9π)/4 sq.m.
+d. (288-9π)/4 sq.m.
+
+#Q   If a circle and a square have the same area, then what will be the perimeter of the square, if diameter of the circle is 8 cm.
+ANSWER: 16π
+a. 4π
+b. 32
+c. 4π
+d. 16π
+
+#Q   Ramesh runs along a circular park every day at a speed of 60m/min. One day he runs along the diameter with same speed and crosses the park. He needed 60 minutes less to cross the park. What is the radius of the park?
+ANSWER: 1680 m
+a. 1680 m
+b. 3600 m
+c. 1750 m
+d. 1530 m
+
+#Q   A plot has a concrete path within its borders on all sides having uniform width of 4m. The plot is rectangular with sides 20m and 15m. Charge of removing concrete is Rs. 6 per sq.m. How much is spent in removing all the concrete?
+ANSWER: Rs. 1296
+a. Rs. 1548
+b. Rs. 1296
+c. Rs. 1500
+d. Rs. 1083
+
+#Q   The least common multiple of two numbers is 168 and highest common factor of them is 12. If the difference between the numbers is 60, what is the sum of the numbers?
+ANSWER: 108
+a. 108
+b. 96
+c. 122
+d. 144
+
+#Q   The L.C.M. of two numbers is 14560 and their H.C.F. is 13. If one of them is 416, the other is
+ANSWER: 455
+a. 460
+b. 455
+c. 450
+d. 445
+
+#Q   What least number when divided by 36, 24 and 16 leaves 11 as remainder in each case?
+ANSWER: 155
+a. 36
+b. 133
+c. 144
+d. 155
+
+#Q   What greatest number divides 17, 42 and 93 and leaves remainders 4, 3 and 15, respectively?
+ANSWER: 13
+a. 89
+b. 78
+c. 13
+d. 17
+
+#Q   The L.C.M. Of 2, 2.7 and 0.09 is:
+ANSWER: 54
+a. 5.4
+b. 0.54
+c. 0.054
+d. 54
+
+#Q   3 bells beep at an interval of 12, 20, and 35 minutes. If they beep together at 10 a.m., then they will again beep together at:
+ANSWER: 5 p.m.
+a. 12 p.m.
+b. 1 p.m.
+c. 4 p.m.
+d. 5 p.m.
+
+#Q   The least number which is a multiple of 11 and when divided by 3, 5 and 9 leaves 2 as remainder:
+ANSWER: 407
+a. 297
+b. 319
+c. 407
+d. None of these
+
+#Q   LCM of two numbers is 495. HCF of these numbers is 5. If the sum of the numbers is 100, find out the difference between the two numbers.
+ANSWER: 10
+a. 15
+b. 12
+c. 10
+d. 20
+
+#Q   Greatest Common Divisor of two numbers is 8 while their Least Common Multiple is 144. Find the other number if one number is 16.
+ANSWER: 72
+a. 108
+b. 96
+c. 72
+d. 36
+
+#Q   LCM of two numbers is 138. But their GCD is 23. The numbers are in a ratio 1:6. Which is the largest number amongst the two?
+ANSWER: 138
+a. 46
+b. 138
+c. 69
+d. 23
+
+#Q   If least common multiple of two numbers is 225 and the highest common factor is 5 then find the numbers when one of the numbers is 25?
+ANSWER: 45
+a. 75
+b. 65
+c. 15
+d. 45
+
+#Q   The greatest number of four digits which is divisible by 15, 25, 40, 75 is
+ANSWER: 9600
+a. 600
+b. 9000
+c. 9600
+d. 9400
+
+#Q   What is the least number which when divided by the numbers 3, 5, 6, 8, 10 and 12 leaves in each case a remainder 2 but which when divided by 13 leaves no remainder?
+ANSWER: 1586
+a. 312
+b. 962
+c. 1586
+d. 1562
+
+#Q   When a number is divided by 893 the remainder is 193. What will be the remainder when it is divided by 47?
+ANSWER: 5
+a. 19
+b. 5
+c. 33
+d. 23
+
+#Q   The sum of two numbers is 156 and their HCF is 13. The numbers of such number pairs is
+ANSWER: 2
+a. 2
+b. 5
+c. 4
+d. 3
+
+#Q   The greatest length of the scale that can measure exactly 30 cm, 90 cm, 1 m 20 cm and 1 m 35 cm lengths is
+ANSWER: 15cm
+a. 5 cm
+b. 10 cm
+c. 15cm
+d. 30 cm
+
+#Q   What will be least number of marbles with Rohit if he can arrange them in rows of 18, 10 and 15 marbles each as well as make a perfect solid square out of all the marbles?
+ANSWER: 900
+a. 133
+b. 43
+c. 90
+d. 900
+
+#Q   What least possible 4-digit number, when divided by 12, 16, 18 and 20 leaves 21 as remainder?
+ANSWER: 1461
+a. 36
+b. 133
+c. 144
+d. 1461
+
+#Q   5 clocks ring automatically at intervals of 12 minutes, 8 minutes, 3 minutes, 4 minutes and 10 minutes, respectively. In 8 hours from the moment they start, how many times will they ring together?
+ANSWER: 4 times
+a. 12 times
+b. 5 times
+c. 3 times
+d. 4 times
+
+#Q   What least number when divided by 20, 48 and 36 leaves the remainders 13, 41 and 29, respectively?
+ANSWER: 713
+a. 720
+b. 713
+c. 727
+d. 187
+
+#Q   There are 3 equilateral triangles with sides 114cm, 76cm and 152 cm. What maximum size scale can measure them exactly?
+ANSWER: 38 cm
+a. 19 cm
+b. 21 cm
+c. 38 cm
+d. None of the above
+
+#Q   What largest number will divide 47, 35 and 27 leaving same remainder in each case? What will be the common remainder?
+ANSWER: 4, 3
+a. 9, 1
+b. 1, 9
+c. 4, 3
+d. 3, 4
+
+#Q   What is HCF of  36/75, 48/150 , 72/135?
+ANSWER: 12/1350
+a. 12/1350
+b. 150/36
+c. 1350/36
+d. 72/225
+
+#Q   Rajesh had to arrange his books in uniform groups. He makes groups of 4 books each. But 3 books are left. He tries it with groups of 5 books each. But still 3 books are left. 3 books are still left when he tried with groups of 9 or 10 books each. How many books does he have?
+ANSWER: 183
+a. 90
+b. 180
+c. 900
+d. 183
+
+#Q   HCF and LCM of two numbers is 8 and 96. Sum of those numbers is 56. Then what is sum of their reciprocals?
+ANSWER: 7/96
+a. 1/56
+b. 7/96
+c. 1/96
+d. 1/8
+
+#Q   What is LCM of  36/225, 48/150 , 72/65 ?
+ANSWER: 144/5
+a. 36/65
+b. 144/5
+c. 72/225
+d. 288/5
+
+#Q   The ratio of two numbers is 5 : 6 and their LCM is 480, then their HCF is?
+ANSWER: 16
+a. 16
+b. 96
+c. 12
+d. 240
+
+#Q   The length and breadth of a rectangular floor are 16.25 metre and 12.75 metre respectively. Find how many minimum number of square tiles would be required to cover it completely?
+ANSWER: 3315
+a. 375
+b. 2570
+c. 2800
+d. 3315
+
+#Q   3 birds fly along the circumference of a jungle. They complete one round in 27 minutes, 45 minutes and 63 minutes respectively. Since they start together, when will they meet again at the starting position?
+ANSWER: 945 minutes
+a. 945 minutes
+b. 126 minutes
+c. 135 minutes
+d. 9 hours
+
+#Q   If (x - 4) is the HCF of x^2 - 8x + 15 and x^2 - kx +1 , then what is k?
+ANSWER: 4
+a. 8/15
+b. 4
+c. 5
+d. 15/8
+
+#Q   Tom wants to paste wallpaper on wall. The wall is 4.5m in length and 3.50m in height. But the wall should be covered completely only by square pieces of wallpaper having same size. What is the number of maximum sized wallpaper squares needed to cover the walls completely?
+ANSWER: 63
+a. 8
+b. 15.75
+c. 63
+d. 12
+
+#Q   Find the least number which should be added to 2430 so that the sum is exactly divisible by 5, 4 and 2
+ANSWER: 10
+a. 3
+b. 10
+c. 13
+d. 33
+
+#Q   Rohan's age is five times Ajay’s and seven-eighteenth of Meena’s age. The sum of the ages of all three of them is 132 years. How much younger is Ajay to Meena?
+ANSWER: 83 years
+a. 56 years
+b. 83 years
+c. 27 years
+d. Cannot be determined
+
+#Q   Ram and Shyam’s average age is 65 years. The average age of Ram, Shyam and John is 53 years. What is the age of John?
+ANSWER: 29 years
+a. 29 years
+b. 31 years
+c. 59 years
+d. 45 years
+
+#Q   The present ages of Aman and Nina are 59 and 37 years, respectively. What was the ratio of the ages of Nina and Aman 13 years ago?
+ANSWER: 12:23
+a. 3:2
+b. 46:25
+c. 12:23
+d. 8:3
+
+#Q   Total age of A and B is 12 years more than the total age of B and C. By how many years is C younger than A?
+ANSWER: 12 years
+a. 12 years
+b. 24 years
+c. Data insufficient
+d. None of these
+
+#Q   The average age of 10 students and their teacher is 15 years. The average age of the first seven students is 15 yr and that of the last three is 11 yr. What is the teacher's age?
+ANSWER: 27 years
+a. 33 years
+b. 30 years
+c. 27 years
+d. 24 years
+
+#Q   Rohan is as much younger than Ajay as he is older than Meena. The sum of ages of Ajay and Meena is 108 years. How old is Rohan?
+ANSWER: 52 years
+a. 32 years
+b. 64 years
+c. 52 years
+d. 36 years
+
+#Q   Average age of a family of 4 members was 19 years, 4 years back. Birth of a new child kept the average age of the family same even today. How old is the child today?
+ANSWER: 3 years
+a. 4 years
+b. 1 year
+c. 2 years
+d. 3 years
+
+#Q   12 years ago, age of P was 3 times the age of Q. After 12 years, ratio of ages of Q to P will be 2:3. What is the present age of P?
+ANSWER: 36 years
+a. 54 years
+b. 36 years
+c. 24 years
+d. 144 years
+
+#Q   The present ages of A and B are 42 and 36 years, respectively. After K years, the ratio of ages of B to A will be 15:17.What is value of K?
+ANSWER: 9 years
+a. 9 years
+b. 12 years
+c. 5 years
+d. 3 years
+
+#Q   A father is 4 times as old as his son. 8 years hence, the ratio of father’s age to the son’s age will be 20:7. What is the sum of their present ages?
+ANSWER: 65
+a. 50
+b. 72
+c. 68
+d. 65
+
+#Q   The average age of a group of 4 friends is 36 years. The youngest friend amongst them is 6 years old. What was the average age of the group at the time of the birth of the youngest friend?
+ANSWER: 40 years
+a. 36 years
+b. 38 years
+c. 32 years
+d. 40 years
+
+#Q   Ram is three times as old as his Sam. 2 years ago he was five times as old as Sam. What is the present age of Ram?
+ANSWER: 12 years
+a. 12 years
+b. 14 years
+c. 18 years
+d. 24 years
+
+#Q   At present, the ratio between the ages of Amit and Dhiraj is 5 : 4. After 6 years, Amit’s age will be 26 years. What is the age of Dhiraj at present?
+ANSWER: 16 years
+a. 12 years
+b. 16 years
+c. 19 ½ years
+d. 21 years
+
+#Q   The average age of 19 boys and the class teacher is 16 years. If the ages of the class teacher and one of the boys are excluded, the average age reduces to 15 years. What is the age of the class teacher ?
+ANSWER: Data Inadequate
+a. 40 years
+b. 36 years
+c. 31 years
+d. Data Inadequate
+
+#Q   Neha's mother was four times her age 12 years ago. She will be twice as old as Neha 12 years from now. What is the present age of Neha's mother ?
+ANSWER: 60 years
+a. 49 years
+b. 57 years
+c. 60 years
+d. 65 years
+
+#Q   15 years ago, a father was three times as old as his daughter. Now the father is only twice as old as his daughter. Find the sum of the present ages of daughter and father.
+ANSWER: 90
+a. 54
+b. 65
+c. 90
+d. 108
+
+#Q   Ramesh's age after 16 years will be 5 times his age 4 years back. What is the present age of Ramesh?
+ANSWER: 9 years
+a. 9 years
+b. 14 years
+c. 16 years
+d. 21 years
+
+#Q   A number is as much greater than 36 as is less than 80. Find the number.
+ANSWER: 58
+a. 32
+b. 36
+c. 49
+d. 58
+
+#Q   The present ages of three persons are in proportions 4 : 7 : 9. Eight years ago, the sum of their ages was 76. Find their present ages (in years).
+ANSWER: 20, 35, 45
+a. 8, 20, 28
+b. 12, 21, 27
+c. 20, 35, 45
+d. None of these
+
+#Q    My father was 30 years of age when my sister was born. My mother was 38 years of age when I was born. My sister was 6 years of age when my brother was born who is 3 years elder to me. What was the age of my father and mother during the birth of my brother?
+ANSWER: 36, 35
+a. 41, 36
+b. 24, 28
+c. 28, 24
+d. 36, 35
+ 
+#Q   The difference between the ages of two brothers is 8 years. If 12 years ago, the elder one was twice as old as his younger brother, what is the present age of the younger brother?
+ANSWER: 20
+a. 20
+b. 28
+c. 24
+d. 26
+
+#Q   Age of Umesh will be 4 times the age of Reena in 6 years from today. If ages of Umesh and Mahesh are 7 times and 6 times the age of Reena respectively, what is present age of Umesh?
+ANSWER: 42 years
+a. 64 years
+b. 30 years
+c. 48 years
+d. 42 years
+
+#Q   The sum of the ages of 4 children born at the intervals of the 3 years each is 58 years. What is the age of the youngest child?
+ANSWER: 10 years
+a. 4 years
+b. 6 years
+c. 8 years
+d. 10 years
+
+#Q   Rohan was 4 times as old as his son 6 years ago. After 6 years Rohan will be twice as old as his son. What is son's present age?
+ANSWER: 12 years
+a. 10 years
+b. 12 years
+c. 14 years
+d. 18 years
+
+#Q   The ratio between the present ages of A and B is 3:5 respectively. If the difference between B's present age and A's age after 4 years is 2 , what is the total of A's and B's present ages?
+ANSWER: 24 years
+a. 24 years
+b. 32 year
+c. 48 years
+d. cannot be determined
+
+#Q   What will be angle between the two hands of a clock at 10.25 pm?
+ANSWER: 162.5°
+a. 120°
+b. 146.5°
+c. 162.5°
+d. 126.45°
+
+#Q   When will the clock’s hands be in a straight line but pointing in opposite directions between 2 am and 3 am?
+ANSWER: 43(7/11) minutes past 2 am
+a. 43(7/11) minutes past 2 am
+b. 25(1/11) minutes before 3 am
+c. 38(7/11) minutes before 3 am
+d. 50(5/11) minutes past 2 am
+
+#Q   When will be both hands of a clock at right angle, between 8pm and 9pm?
+ANSWER: 27 (3/11) minutes past 8 pm
+a. 29 (8/11) minutes past 8 pm
+b. 27 (3/11) minutes past 8 pm
+c. 25 (7/11) minutes past 8 pm
+d. 24 (5/11) minutes before 9 pm
+
+#Q   At what time between 7 o'clock and 8 o'clock, will the hands of a clock be together?
+ANSWER: 38(2/11) minutes past 7 o’ clock
+a. 33(5/12) minutes past 7 o’ clock
+b. 38(2/11) minutes past 7 o’ clock
+c. 35(7/11) minutes past 8 o’ clock
+d. 32(1/11) minutes before 8 o’ clock
+
+#Q   Jaggu set an alarm on his clock for Monday 11 am. He set his clock correctly on Sunday 1 am. He was unaware that the clock gains 20 min every 24 hours. When his alarm went off what was the actual time?
+ANSWER: 31 minutes 40 seconds past 10 am
+a. 28 minutes 20 seconds before 10 am
+b. 28 minutes 20 seconds past 11 am
+c. 31 minutes 40 seconds past 11 am
+d. 31 minutes 40 seconds past 10 am
+
+#Q   Ramesh sets his grandfather’s clock to the right time at 2.00 am on Thursday. But he didn’t know that the clock gains 20s for every 3 hours. What will the clock indicate on Friday night 6.30 pm?
+ANSWER: 6.34.30 pm
+a. 6.32.00 pm
+b. 6.32.46 pm
+c. 6.38.56 pm
+d. 6.34.30 pm
+
+#Q   At what time after 9 am, do hands of clock make a right angle?
+ANSWER: At 32(8/11) minutes past 9 am
+a. At 32(8/11) minutes past 9 am
+b. At 9 am
+c. At 3 pm
+d. At 29(8/11) minutes before 10 am
+
+#Q   The minute hand and hour hand of a clock meet every 62 minutes. Does the clock gain or lose in 24 hours. And how much does it lose or gain?
+ANSWER: 78(74/11) minutes
+a. 66(5/11) minutes
+b. 72(7/11) minutes
+c. 78(74/11) minutes
+d. 56(65/11) minutes
+
+#Q   What angle is formed between the minutes hand and seconds’ hand of clock if they are 25 minutes apart?
+ANSWER: 150°
+a. 135°
+b. 110°
+c. 120°
+d. 150°
+
+#Q   Ramesh wants to set the clock hands 8 minutes apart between 10 o'clock and 11 o'clock. What would be the time shown in the clock if he does so?
+ANSWER: 43(9/11) minutes past 10 o’ clock and 3(3/11) minutes past 11 o’ clock
+a. 3(3/11) minutes before 11 o’ clock and 63(3/11) minutes past 10 o’ clock
+b. 43(9/11) minutes past 10 o’ clock and 3(3/11) minutes past 11 o’ clock
+c. 43(9/11) minutes past 10 o’ clock and 58(9/11) minutes before 11 o’ clock
+d. 43(9/11) minutes past 10 o’ clock and 3(3/11) minutes before 11 o’ clock
+
+#Q   What is the angle between the hour and minute hand at 3:40?
+ANSWER: 130
+a. 135
+b. 130
+c. 120
+d. 125
+
+#Q   How many times do the hands of the clock coincide in a day?
+ANSWER: 22
+a. 22
+b. 24
+c. 20
+d. 21
+
+#Q   P can do a job in 15 days. In how many days can P and Q together complete the job if Q is twice as fast as P?
+ANSWER: 5 days
+a. 3 days
+b. 5 days
+c. 2 days
+d. 6 days
+
+#Q   P can do a work in 30 days. Q is 25% more efficient than P in completing the same work. In how many days will Q complete the work?
+ANSWER: 24 days
+a. 37.5 days
+b. 22.5 days
+c. 20 days
+d. 24 days
+
+#Q   A man can do a piece of work in 4 days, but with the help of his daughter, he can do it in 3 days. In what time can his daughter do it alone?
+ANSWER: 12 days
+a. 6 ½ days
+b. 7 days
+c. 9 ½ days
+d. 12 days
+
+#Q   A car consumes 210 liters of petrol weekly. For how many days will 1470 liters of petrol be sufficient?
+ANSWER: 49
+a. 48
+b. 49
+c. 50
+d. 52
+
+#Q   Raj can build a house alone in 16 days but Suraj alone can build it in 12 days. Raj and Suraj work on alternate days. If Raj works on first day, the house will be built in how many days?
+ANSWER: 13(3/4) days
+a. 12.5 days
+b. 13(3/4) days
+c. 48/7 days
+d. 24/7 days
+
+#Q   If Ram and Shyam together can build a house in 10 days; Ram and Arun can build it together in 12 days and Shyam and Arun can build it in 15 days. Shyam, Ram and Arun start working together. In how many days they build the house?
+ANSWER: 8 days
+a. 6 days
+b. 4 days
+c. 8 days
+d. 12 days
+
+#Q   Mahesh asked 32 men to build his house in 20 days. 80% of the work got completed in just 12 days. So Mahesh removed some workers. Now how many persons does he need to complete the remaining work in decided time?
+ANSWER: 12
+a. 12
+b. 20
+c. 32
+d. 16
+
+#Q   A takes twice as much time as B or thrice as much time as C to finish a piece of work; working together they can finish the work in 2 days. B can do the work alone in
+ANSWER: 6 days
+a. 12 days
+b. 4 days
+c. 8 days
+d. 6 days
+
+#Q   A can do 1/4th part of work in 10 days and B can do 40% work in 40 days  and C can do 1/3rd of the work in 13 days. Who will complete the work first?
+ANSWER: C
+a. A
+b. B
+c. C
+d. A and C both
+
+#Q   A and B can finish a piece of work in 30 days, B and C can finish it in 15 days, C and A in 10 days. Time taken by them together to do this work is?
+ANSWER: 10 days
+a. 5 days
+b. 2(1/2) days
+c. 7(1/2) days
+d. 10 days
+
+#Q   P and Q can do a work in 12 days. Q and R can do the same work in 16 days, and R and P can do it in 24 days. Find the time in which P, Q and R can finish the work together.
+ANSWER: 10(2/3) days
+a. 9(3/4) days
+b. 10 days
+c. 11(1/4) days
+d. 10(2/3) days
+
+#Q   P and Q together can do a work in 18 days. P alone can do the same work in 27 days. In how many days can Q alone do the same work?
+ANSWER: 54 days
+a. 54 days
+b. 36 days
+c. 45 days
+d. 9 days
+
+#Q   35 men can make 70 toys in 8 days by working 8 hours a day. How many days will 56 men need to make 84 toys by working 12 hours every day?
+ANSWER: 4 days
+a. 6 days
+b. 4 days
+c. 2 days
+d. 3 days
+
+#Q   If 24 men can finish a work in 10 days, then find the number of days required to complete the same work by 30 men?
+ANSWER: 8 days
+a. 8 days
+b. 6 days
+c. 3 days
+d. 7.5 days
+
+#Q   A can complete a work in 12 days and B can complete in 8 days. A works for 8 hours every day while B works for 10 hours every day. If A and B together start working 8 hours per day, in how many days will they complete the work?
+ANSWER: 60/11 days
+a. 8 days
+b. 60/11 days
+c. 39/12 days
+d. 15/8 days
+
+#Q   When P alone does a work, he takes 25 days more than the time taken by P and Q working together to complete the work. But Q alone takes 9 days more than the time taken by P and Q working together to complete the work. In what time, P and Q together finish this work?
+ANSWER: 15 days
+a. 18 days
+b. 20 days
+c. 25 days
+d. 15 days
+
+#Q   A can do a work in 3 days. B can do the same work in 6 days and C can do the same work in 7 days. If they work together, in how many days will they take to complete the work?
+ANSWER: 14/9 Days
+a. 11/10 Days
+b. 15/16 Days
+c. 14/9 Days
+d. 16/7 Days
+
+#Q   Sita and Gita can do a work in 20 days and 25 days, respectively. Both begin together but after a few days, Sita leaves. Then Gita finishes the remaining work in 10 days. After how many days did Sita leave?
+ANSWER: 6(2/3) Days
+a. 6(2/3) Days
+b. 5 Days
+c. 8(1/5) Days
+d. 10(2/5) Days
+
+#Q   Meena can do a piece of work in 20 days. Kumar can do it in 30 days. They start working together on the work but 10 days before the completion of the work, Kumar leaves. In how many days does the total work get completed?
+ANSWER: 16 days
+a. 20 days
+b. 12 days
+c. 6 days
+d. 16 days
+
+#Q   A can build a wall in the same time in which B and C together can do it. If A and B together could do it in 25 days and C alone in 35 days, in what time could B alone do it?
+ANSWER: 175 days
+a. 175 days
+b. 100 days
+c. 90 days
+d. None of these
+
+#Q   A pack of people can complete a certain amount of work in 12 days. Two times the same number of persons will complete half of the work in?
+ANSWER: 3 days
+a. 12 days
+b. 3 days
+c. 4 days
+d. 6 days
+
+#Q   12 men and 18 boys working 7.5 minutes an hour complete a particular piece of work in 60 hours. If a boy’s work is half as efficient as a man’s work, how many boys will be needed to help 21 men to achieve twice the work in 50 hours working 9 minutes in an hour.
+ANSWER: 42
+a. 42
+b. 46
+c. 48
+d. 38
+
+#Q   5/8th of a job is completed in 10 days. If a person works at the same pace, how many days will he take to complete the job?
+ANSWER: 6
+a. 4
+b. 5
+c. 6
+d. 7
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
